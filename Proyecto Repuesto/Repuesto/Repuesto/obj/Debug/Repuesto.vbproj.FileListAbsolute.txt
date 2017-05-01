@@ -1,0 +1,93 @@
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.exe.config
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.exe
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.pdb
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.xml
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.dll
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.pdb
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.xml
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.Resources.resources
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.exe
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.xml
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.pdb
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fLogin.resources
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fMenuPrincipal.resources
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fAdministracion.resources
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fFacturacion.resources
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fInventario.resources
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fProveedor.resources
+C:\Users\Samuel\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\RepuestoDB.accdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.exe.config
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.exe
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.xml
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.pdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\RepuestoDB.accdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.exe
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.pdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.xml
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.pdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.xml
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.vbprojResolveAssemblyReference.cache
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fAdministracion.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fFacturacion.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fLogin.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fMenuPrincipal.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fInventario.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.fProveedor.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.Resources.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.vbproj.GenerateResource.Cache
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.exe.config
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.exe
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.xml
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.pdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.vbprojResolveAssemblyReference.cache
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fAdministracion.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fFacturacion.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fLogin.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fMenuPrincipal.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fInventario.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fProveedor.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.Resources.resources
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.vbproj.GenerateResource.Cache
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\RepuestoDB.accdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.exe
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.pdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.xml
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.pdb
+C:\Users\4TO INFORMATICA\Desktop\VB.NET\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.xml
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.exe.config
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.exe
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.xml
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.pdb
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\RepuestoDB.accdb
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.exe
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.pdb
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.xml
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.pdb
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\QuerysConDBlibrary.xml
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.vbprojResolveAssemblyReference.cache
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fAdministracion.resources
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fFacturacion.resources
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fLogin.resources
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fMenuPrincipal.resources
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fInventario.resources
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.fProveedor.resources
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.Resources.resources
+E:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.vbproj.GenerateResource.Cache
+G:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.exe.config
+G:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.exe
+G:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.xml
+G:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.pdb
+I:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.exe.config
+I:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.exe
+I:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.xml
+I:\Samuel\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.pdb
+E:\2014\Proyecto Repuesto\Proyecto Repuesto 1-Original\Repuesto\Repuesto\bin\Debug\Repuesto.exe.config
+E:\2014\Proyecto Repuesto\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.exe
+E:\2014\Proyecto Repuesto\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.xml
+E:\2014\Proyecto Repuesto\Proyecto Repuesto 1-Original\Repuesto\Repuesto\obj\Debug\Repuesto.pdb
+C:\Users\FINJUS_LAPTOP2013_1\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\bin\Debug\Repuesto.exe.config
+C:\Users\FINJUS_LAPTOP2013_1\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.exe
+C:\Users\FINJUS_LAPTOP2013_1\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.xml
+C:\Users\FINJUS_LAPTOP2013_1\Desktop\Proyectos\Proyecto Repuesto\Repuesto\Repuesto\obj\Debug\Repuesto.pdb

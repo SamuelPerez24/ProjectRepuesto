@@ -1,0 +1,10 @@
+1- Que significan llos siguientes campos en la tabla de inventario:
+	-Ubicación.
+	-Unidad.
+	-Costo total: si es costo total a la fecha por producto o solo total por producto.
+	-Vehículo: si es el módelo del vehículo.
+
+2- Sí puedes entrale registros por favor. 
+//Para poder entender mejor el inventario me ayudarías mucho a comprender.
+
+3- No habrá algún distribuidor o proveedor que registrar?

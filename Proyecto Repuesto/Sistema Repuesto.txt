@@ -1,0 +1,56 @@
+Manejara: 
+1-Inventario 
+2-Facturación
+3-Detalle Factura
+4-Proveedor
+5-Login
+
+1-Inventario:
+	*ID Inventario
+	*Nombre
+	*Tipo
+	*Fecha Ingreso
+	*Descripcion
+	*Precio Unitario 
+	*Costo
+	*Cantidad maxima
+	*Cantidad minima
+	*ID Proveedor
+	*Comentario
+
+2-Facturacion: 
+	*ID Factura
+	*Nombre del establecimiento
+	*Telefon
+	*Direccion
+	*Cliente
+	*Fecha
+	*Vendedor
+	*ID Detalle Factura
+
+3-Detalle de Factura:
+	*ID DetalleFactura
+	*ID Producto
+	*Nombre producto
+	*Precio unitario	
+	*Cantidad
+	*SubTotal	
+	*Total 
+
+4-Proveedor: 
+	*ID Proveedor
+	*Nombre
+	*Fecha de Ingreso
+	*Direccion
+	*Telefono
+	*Ciudad
+	*Provincia
+	*Comentario
+
+5-Login:
+	*ID User
+	*User
+	*Password
+	*Tipo User
+	*Nombre User
+	*Apellido User
